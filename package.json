@@ -1,6 +1,6 @@
 {
-  "name": "angular-bootstrap-switch",
-  "version": "0.2.1",
+  "name": "angular-sass-bootstrap-switch",
+  "version": "0.2.2",
   "author": {
     "name": "Francesco Pontillo",
     "email": "francescopontillo@gmail.com",
@@ -9,7 +9,7 @@
   "homepage": "https://github.com/frapontillo/angular-bootstrap-switch",
   "repository": {
     "type": "git",
-    "url": "git@github.com:frapontillo/angular-bootstrap-switch.git"
+    "url": "git@github.com:brutalhonesty/angular-bootstrap-switch.git"
   },
   "licenses": [
     {
